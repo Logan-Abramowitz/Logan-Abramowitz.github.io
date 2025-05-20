@@ -18,7 +18,7 @@ url                      : "https://Logan-Abramowitz.github.io" # the base hostn
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: dark # light/default, dark, or aqua
+color_scheme: light # light/default, dark, or aqua
 skin: aqua
 
 sass:
