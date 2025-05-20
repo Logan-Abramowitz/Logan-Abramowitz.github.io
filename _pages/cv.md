@@ -8,12 +8,12 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [la437@cornell.edu](mailto:la437@cornell.edu) | | | **Phone:** +1 (914)-707-2431
+**Email:** [la437@cornell.edu](mailto:la437@cornell.edu) | | | **Phone:** +1 (914)-707-2431 | | | **LinkedIn:** [My Profile](www.linkedin.com/in/logan-abramowitz)
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+A computer science and operations research student with a strong foundation in programming and data science. I am passionate about working with data to uncover hidden patterns and am eager to apply my knowledge in real-world applications.
 
 ---
 
@@ -21,11 +21,26 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 - **Cornell University**  
   *Bachelor of Science in Computer Science*  
   *Bachelor of Science in Operations Research and Engineering*  
-  GPA: 3.7/4.0 | Graduation: May, 2027
+  GPA: 3.738/4.0 | Graduation: May, 2027
 
 - **The Leffell School**  
   *High School Diploma*  
   Graduation: June, 2023
+
+---
+
+#### Relevant Coursework
+- CS 2110: Object-Oriented Programming and Data Structures
+- CS 3110: Data Structures and Functional Programming
+- CS 3410: Computer System Organization and Programming
+- CS 3700: Foundations of AI Reasoning and Decision-Making
+- CS 3780: Introduction to Machine Learning 
+- MATH 2940: Linear Algebra for Engineers
+- ENGRD 2700: Engineering Probability and Statistics: Modeling and Data Science
+- ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
+- ORIE 3300: Optimization I
+- ORIE 3500: Engineering Probability and Statistics: Modeling and Data Science II
+
 
 ---
 
@@ -50,11 +65,12 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
-
+- **Stand Out for College - Intern**  
+  April 2023 - June 2023
+  - Collaborated in team of three to develop robust software to create database of college admission data
+  - Scraped data from each college's Common Data Set, then cleaned and processed the data which was then sent to a google sheet
+  - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
+  
 ---
 
 #### Achievements & Certifications
@@ -64,8 +80,12 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- **Cybersecurity Club at Cornell - Vice President**  
+  January 2024 - May 2025
+  - Planned officer and general body meetings
+  - Organized logistics for HackTheBox CTF event
+  - Built club from 10 active members to over 60 active members
+  - Filled in as Interim President for several months
 
 ---
 

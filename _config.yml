@@ -14,11 +14,12 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : Logan Abramowitz
 description              : Logan Abramowitz - Projects and CV 
 baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Logan-Abramowitz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: dark # light/default, dark, or aqua
+skin: aqua
 
 sass:
   style: compressed
