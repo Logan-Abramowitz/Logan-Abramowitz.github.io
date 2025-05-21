@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [la437@cornell.edu](mailto:la437@cornell.edu) | | | **Phone:** +1 (914)-707-2431 | | | **LinkedIn:** [My Profile](www.linkedin.com/in/logan-abramowitz)
+**Email:** [la437@cornell.edu](mailto:la437@cornell.edu) | | | **Phone:** (914)-707-2431 | | | **LinkedIn:** [My Profile](https://www.linkedin.com/in/logan-abramowitz)
 
 ---
 
@@ -52,12 +52,12 @@ A computer science and operations research student with a strong foundation in p
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **North Campus Mail Room Optimization**:  
+  I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.
+  - Our proposed solution would increase efficiency by 30% without increasing cost  
+  - Learned how to work with databases, simulate queues, and present findings  
 
-- **[Project Title]**:  
+- **Predict to Get Picked: Prediction Models for Formula 1 Constructors**:  
   *[Short Description]*  
   - Key Achievement 1  
   - Key Achievement 2  

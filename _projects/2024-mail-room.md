@@ -1,12 +1,16 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+title: Mail Room Inefficiencies
+description: Advanced research for Cornell's Operations Research department
+technologies: [Python, Excel]
+image: /assets/images/mail-room-cover-photo.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+In the spring semester of 2024 I participated in research for the Operations Research and Information Engineering department at Cornell University where I helped analyze inefficiencies in the North Campus Mail Room. I worked in a team of three which met for several hours, multiple times per week to conduct a thorough analysis. We also gave weekly presentations of our progress and findings of that week to our supervising professor.
+
+To begin, we were given data on the operations of the mail room, including: package pickup rates, package arrival rates, speed of service, length of queue, organizational system, and more. We then imported the data into python using pandas and created some preliminary graphs to get a feel for the data and try to uncover apparent visual patterns. From these graphs we found that the queue was well modelled by a poisson distribution which is a fundemental tool in queuing theory, the rate at which a student is likely to pick up their packages decays exponentially per day, and package arrival rate is cyclical based on the time of year (move-in, Christmas, etc.).
+
+I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University. To conduct this analysis we employed statistical methods such as distribution fitting, simulating queues and more. Using these models we compared how new systems of organization would affect efficiency. We then created a presentation and a 20 page long report to present our findings. Multi vendor simulation
 
 Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
 

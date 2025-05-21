@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Predict to Get Picked
+description: Prediction Models for Formula 1 Constructors
+technologies: [SQL, Python, Machine Learning]
+image: /assets/images/f1-coverphoto.jpg
 ---
 
 
