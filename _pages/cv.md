@@ -72,13 +72,13 @@ A computer science and operations research student with a strong foundation in p
   - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
   
 ---
-
+{% comment %}
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
 - [Achievement Name], [Competition/Event], [Year]  
 
 ---
-
+{% endcomment %}
 #### Extracurricular Activities
 - **Cybersecurity Club at Cornell - Vice President**  
   January 2024 - May 2025
