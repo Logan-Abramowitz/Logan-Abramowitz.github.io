@@ -9,8 +9,12 @@ title: Logan Abramowitz
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a rising junior at Cornell University double majoring in Computer Science and Operations Research. [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a rising junior at Cornell University double majoring in Computer Science and Operations Research & Information Engineering. I’ve always been drawn to problems that involve data — whether that means finding patterns, improving systems, or trying to predict what comes next.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+At Cornell, I’ve worked on a research project with the ORIE department to help make the campus mailroom more efficient. I’ve also written a report on Formula 1 racing for one of my ORIE classes, where I looked into how data could help explain team performance. I’m planning to share both of those projects here.
 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+I’ve interned with Stand Out for College and StratusX, and I was vice president of Cornell’s Cybersecurity Club for a year. Through these experiences, I’ve learned how much I enjoy digging into data and using tools like machine learning to turn information into insight.
+
+This site is a place for me to share some of the work I’ve done so far, and hopefully a way to connect with others who care about the same things.
+
+Please take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

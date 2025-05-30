@@ -12,7 +12,7 @@ permalink: /cv/
 
 ---
 
-#### Objective
+#### Summary
 A computer science and operations research student with a strong foundation in programming and data science. I am passionate about working with data to uncover hidden patterns and am eager to apply my knowledge in real-world applications.
 
 ---
@@ -21,11 +21,11 @@ A computer science and operations research student with a strong foundation in p
 - **Cornell University**  
   *Bachelor of Science in Computer Science*  
   *Bachelor of Science in Operations Research and Engineering*  
-  GPA: 3.738/4.0 | Graduation: May, 2027
+  GPA: 3.725/4.0 | Graduation: May, 2027
 
 - **The Leffell School**  
   *High School Diploma*  
-  Graduation: June, 2023
+  GPA: 4.05/4.4 | Rigor: 5/5 | Graduation: June, 2023
 
 ---
 
@@ -46,7 +46,7 @@ A computer science and operations research student with a strong foundation in p
 
 #### Skills
 - **Programming:** Python, Java, OCaml, SQL 
-- **Software:** Tableau, Fusion 360
+- **Software:** Tableau, Fusion 360, AWS, Kubernetes
 - **Intangibles:** Leadership, Organization, Teamwork
 
 ---
@@ -72,13 +72,12 @@ A computer science and operations research student with a strong foundation in p
   - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
   
 ---
-{% comment %}
+
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- [Certificate of Completion: AWS Technical Essentials]({{ "/assets/AWS-Technical-Essentials.pdf" | relative_url }}), AWS training and certification, 2025  
 
 ---
-{% endcomment %}
+
 #### Extracurricular Activities
 - **Cybersecurity Club at Cornell - Vice President**  
   January 2024 - May 2025
