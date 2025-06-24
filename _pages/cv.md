@@ -45,22 +45,25 @@ A computer science and operations research student with a strong foundation in p
 ---
 
 #### Skills
-- **Programming:** Python, Java, OCaml, SQL 
-- **Software:** Tableau, Fusion 360, AWS, Kubernetes
-- **Intangibles:** Leadership, Organization, Teamwork
+- **Programming:** Python, Java, OCaml, SQL  
+- **Software:** Tableau, Fusion 360, AWS, Kubernetes, Docker  
+- **Intangibles:** Leadership, Organization, Teamwork  
 
 ---
 
 #### Projects
 - **North Campus Mail Room Optimization**:  
-  I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.
+  January 2024 - May 2024  
+  I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.  
   - Our proposed solution would increase efficiency by 30% without increasing cost  
   - Learned how to work with databases, simulate queues, and present findings  
 
 - **Predict to Get Picked: Prediction Models for Formula 1 Constructors**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+  January 2025 - May 2025  
+  I conducted data analysis and machine learning modeling on Formula 1 race data within a team of four to predict pit stop timings and provide strategy insights for racing teams.  
+  - Engineered custom features and cleaned multi-table datasets for predictive modeling  
+  - Built and evaluated logistic regression and random forest classifiers to predict pit stops, achieving an ROC curve with an AUC of 0.91  
+  - Co-authored a 15-page final report and developed interactive, hyperlinked figures for clear presentation  
 
 ---
 
@@ -70,6 +73,10 @@ A computer science and operations research student with a strong foundation in p
   - Collaborated in team of three to develop robust software to create database of college admission data
   - Scraped data from each college's Common Data Set, then cleaned and processed the data which was then sent to a google sheet
   - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
+
+- **StratusX - Intern**
+  May 2025 - August 2025
+  - 
   
 ---
 
