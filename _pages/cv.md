@@ -47,17 +47,12 @@ A computer science and operations research student with a strong foundation in p
 #### Skills
 - **Programming:** Python, Java, OCaml, SQL  
 - **Software:** Tableau, Fusion 360, AWS, Kubernetes, Docker  
+- **Tools:** 3D Printer
 - **Intangibles:** Leadership, Organization, Teamwork  
 
 ---
 
 #### Projects
-- **North Campus Mail Room Optimization**:  
-  January 2024 - May 2024  
-  I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.  
-  - Our proposed solution would increase efficiency by 30% without increasing cost  
-  - Learned how to work with databases, simulate queues, and present findings  
-
 - **Predict to Get Picked: Prediction Models for Formula 1 Constructors**:  
   January 2025 - May 2025  
   I conducted data analysis and machine learning modeling on Formula 1 race data within a team of four to predict pit stop timings and provide strategy insights for racing teams.  
@@ -65,19 +60,25 @@ A computer science and operations research student with a strong foundation in p
   - Built and evaluated logistic regression and random forest classifiers to predict pit stops, achieving an ROC curve with an AUC of 0.91  
   - Co-authored a 15-page final report and developed interactive, hyperlinked figures for clear presentation  
 
+- **North Campus Mail Room Optimization**:  
+  January 2024 - May 2024  
+  I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.  
+  - Our proposed solution would increase efficiency by 30% without increasing cost  
+  - Learned how to work with databases, simulate queues, and present findings  
+
 ---
 
 #### Work Experience
+- **StratusX - Intern**  
+  May 2025 - August 2025
+  - 
+
 - **Stand Out for College - Intern**  
   April 2023 - June 2023
   - Collaborated in team of three to develop robust software to create database of college admission data
   - Scraped data from each college's Common Data Set, then cleaned and processed the data which was then sent to a google sheet
   - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
 
-- **StratusX - Intern**
-  May 2025 - August 2025
-  - 
-  
 ---
 
 #### Achievements & Certifications
@@ -87,11 +88,18 @@ A computer science and operations research student with a strong foundation in p
 
 #### Extracurricular Activities
 - **Cybersecurity Club at Cornell - Vice President**  
-  January 2024 - May 2025
-  - Planned officer and general body meetings
-  - Organized logistics for HackTheBox CTF event
-  - Built club from 10 active members to over 60 active members
+  August 2024 - May 2025
   - Filled in as Interim President for several months
+  - Built club from 10 active members to over 60 active members
+  - Planned and ran officer and general body meetings
+  - Organized logistics for HackTheBox CTF event
+
+- **Cybersecurity Club at Cornell - Treasurer**  
+  January 2024 - August 2024
+  - Key member of club Executive Board
+  - Planned and ran officer and general body meetings
+  - Allocated and spend budget on club needs
+
 
 ---
 
