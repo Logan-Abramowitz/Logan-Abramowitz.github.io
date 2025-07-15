@@ -21,7 +21,7 @@ A computer science and operations research student with a strong foundation in p
 - **Cornell University**  
   *Bachelor of Science in Computer Science*  
   *Bachelor of Science in Operations Research and Engineering*  
-  GPA: 3.725/4.0 | Graduation: May, 2027
+  GPA: 3.725 | Graduation: May, 2027
 
 - **The Leffell School**  
   *High School Diploma*  
@@ -31,23 +31,25 @@ A computer science and operations research student with a strong foundation in p
 
 #### Relevant Coursework
 - CS 2110: Object-Oriented Programming and Data Structures
+- CS 2800: Discrete Structure
 - CS 3110: Data Structures and Functional Programming
 - CS 3410: Computer System Organization and Programming
 - CS 3700: Foundations of AI Reasoning and Decision-Making
 - CS 3780: Introduction to Machine Learning 
+- CS 4820: Introduction to Analysis of Algorithms
 - MATH 2940: Linear Algebra for Engineers
 - ENGRD 2700: Engineering Probability and Statistics: Modeling and Data Science
 - ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
+- ORIE 3150: Financial and Managerial Accounting
 - ORIE 3300: Optimization I
 - ORIE 3500: Engineering Probability and Statistics: Modeling and Data Science II
-
 
 ---
 
 #### Skills
 - **Programming:** Python, Java, OCaml, SQL  
-- **Software:** Tableau, Fusion 360, AWS, Kubernetes, Docker  
-- **Tools:** 3D Printer
+- **Software:** Tableau, Fusion 360, AWS, Docker  
+- **Tools:** 3D Printer  
 - **Intangibles:** Leadership, Organization, Teamwork  
 
 ---
@@ -60,18 +62,37 @@ A computer science and operations research student with a strong foundation in p
   - Built and evaluated logistic regression and random forest classifiers to predict pit stops, achieving an ROC curve with an AUC of 0.91  
   - Co-authored a 15-page final report and developed interactive, hyperlinked figures for clear presentation  
 
+{% comment %}
+- **Deep Minesweeper**:
+  October 2024 - December 2024
+  [Short description]
+  - Achievement 1
+  - Achievement 2
+
+{% endcomment %}
+
 - **North Campus Mail Room Optimization**:  
   January 2024 - May 2024  
   I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.  
   - Our proposed solution would increase efficiency by 30% without increasing cost  
   - Learned how to work with databases, simulate queues, and present findings  
 
+{% comment %}
+- **pyCraft**:
+  7 August 2022 - 12 August 2022
+  [Short description]
+  - Achievement 1
+  - Achievement 2
+{% endcomment %}
+
 ---
 
 #### Work Experience
 - **StratusX - Intern**  
   May 2025 - August 2025
-  - 
+  - Upgraded outdated cloud infrastructure to reduce vulnerabilities
+  - Reconstructed lost Dockerfiles and docker-compose.yml files for 30 images
+  - Successfully removed all critical and high severity vulnerabilities while reducing total vulnerabilities by 90%
 
 - **Stand Out for College - Intern**  
   April 2023 - June 2023
