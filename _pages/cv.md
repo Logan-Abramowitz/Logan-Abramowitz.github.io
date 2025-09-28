@@ -55,6 +55,13 @@ A computer science and operations research student with a strong foundation in p
 ---
 
 #### Projects
+{% comment %}
+- **Food Pantry Optimization**:  
+  September 2025 - December 2025  
+  I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.  
+  - Our proposed solution would increase efficiency by 30% without increasing cost  
+  - Learned how to work with databases, simulate queues, and present findings  
+{% endcomment% }
 - **Predict to Get Picked: Prediction Models for Formula 1 Constructors**:  
   January 2025 - May 2025  
   I conducted data analysis and machine learning modeling on Formula 1 race data within a team of four to predict pit stop timings and provide strategy insights for racing teams.  
@@ -88,6 +95,12 @@ A computer science and operations research student with a strong foundation in p
 ---
 
 #### Work Experience
+- **Handshake AI - MOVE Fellow**
+  August 2025 - September 2025
+  - Worked as a part of a massive team to complete proprietary advancement of AI
+  - Evaluated many Web based applications for AI models to train against
+
+
 - **StratusX - Intern**  
   May 2025 - August 2025
   - Upgraded outdated cloud infrastructure to reduce vulnerabilities

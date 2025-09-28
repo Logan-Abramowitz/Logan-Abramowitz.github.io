@@ -9,9 +9,9 @@ title: Logan Abramowitz
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a rising junior at Cornell University double majoring in Computer Science and Operations Research & Information Engineering. I’ve always been drawn to problems that involve data—whether that means finding patterns, improving systems, or trying to predict what comes next.
+My name is {{ site.name }}, and I am a junior at Cornell University double majoring in Computer Science and Operations Research & Information Engineering. I’ve always been drawn to problems that involve data—whether that means finding patterns, improving systems, or trying to predict what comes next.
 
-At Cornell, I’ve worked on a research project with the ORIE department to help make the North Campus Mailroom more efficient. I’ve also written a report on Formula 1 racing for one of my ORIE classes, where I looked into how data could help explain team performance.
+At Cornell, I’ve worked on a research project with the ORIE department to help make the North Campus Mailroom more efficient. I’ve also written a report on Formula 1 racing for one of my ORIE classes, where I looked into how data could help explain team performance. Currently, I am involved in research with the ORIE department to help optimize and improve a local food pantries operations.
 
 In terms of my experience, I’ve interned with Stand Out for College and StratusX, and I was vice president of Cornell’s Cybersecurity Club. Through these experiences, I've gained many valuable skills such as teamwork and leadership. I’ve also learned how much I enjoy digging into data and using tools like machine learning to turn information into insight.
 
