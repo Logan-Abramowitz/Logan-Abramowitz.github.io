@@ -61,7 +61,7 @@ A computer science and operations research student with a strong foundation in p
   I worked in team of three to analyze inefficiencies in the North Campus Mail Room of Cornell University and model solutions.  
   - Our proposed solution would increase efficiency by 30% without increasing cost  
   - Learned how to work with databases, simulate queues, and present findings  
-{% endcomment% }
+{% endcomment %}
 - **Predict to Get Picked: Prediction Models for Formula 1 Constructors**:  
   January 2025 - May 2025  
   I conducted data analysis and machine learning modeling on Formula 1 race data within a team of four to predict pit stop timings and provide strategy insights for racing teams.  
