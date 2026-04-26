@@ -21,7 +21,7 @@ A computer science and operations research student with a strong foundation in p
 - **Cornell University**  
   *Bachelor of Science in Computer Science*  
   *Bachelor of Science in Operations Research and Engineering*  
-  GPA: 3.725 | Graduation: May, 2027
+  GPA: 3.68 | Graduation: May, 2027
 
 - **The Leffell School**  
   *High School Diploma*  
@@ -42,15 +42,20 @@ A computer science and operations research student with a strong foundation in p
 - ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
 - ORIE 3150: Financial and Managerial Accounting
 - ORIE 3300: Optimization I
+- ORIE 3310: Optimization II
 - ORIE 3500: Engineering Probability and Statistics: Modeling and Data Science II
+- ORIE 3510: Stochastic Processes for Decision-Making
+- ORIE 4134: Operations Research Modeling for Real
 
 ---
 
 #### Skills
-- **Programming:** Python, Java, OCaml, SQL  
-- **Software:** Tableau, Fusion 360, AWS, Docker  
-- **Tools:** 3D Printer  
-- **Intangibles:** Leadership, Organization, Teamwork  
+- **Back-end Development Tools:** Python, Java, OCaml, C, OOP Programming
+- **Front-end Development Tools:** HTML, CSS, Markdown, Jekyll
+- **Developer Tools:** Git, GitHub, VS Code, Eclipse, Jupyter Notebooks
+- **Data Analysis Tools:** SQL, Tableau, Pandas, Numpy, Scikit-learn, AMPL, CVXPY
+- **Microsoft Office Suite:** Excel, Word, PowerPoint
+- **Intangibles:** Leadership, Organization, Teamwork 
 
 ---
 
@@ -69,14 +74,11 @@ A computer science and operations research student with a strong foundation in p
   - Built and evaluated logistic regression and random forest classifiers to predict pit stops, achieving an ROC curve with an AUC of 0.91  
   - Co-authored a 15-page final report and developed interactive, hyperlinked figures for clear presentation  
 
-{% comment %}
 - **Deep Minesweeper**:
   October 2024 - December 2024
-  [Short description]
-  - Achievement 1
-  - Achievement 2
-
-{% endcomment %}
+  I worked with a partner to build a working version of a 3-dimensional minesweeper game using functional programming for our term project.
+  - Collaborated closely on a codebase exceeding 800 lines, contributing ~50% of the implementation while co-designing architecture and debugging strategies
+  - Leveraged functional programming principles to build clean, maintainable game logic
 
 - **North Campus Mail Room Optimization**:  
   January 2024 - May 2024  
@@ -84,13 +86,12 @@ A computer science and operations research student with a strong foundation in p
   - Our proposed solution would increase efficiency by 30% without increasing cost  
   - Learned how to work with databases, simulate queues, and present findings  
 
-{% comment %}
 - **pyCraft**:
   7 August 2022 - 12 August 2022
-  [Short description]
-  - Achievement 1
-  - Achievement 2
-{% endcomment %}
+  Built a 2D sandbox game inspired by Minecraft and Terraria in under one week, implementing core gameplay systems in Python.
+  - Designed and implemented player movement, mining, and block placement mechanics with proximity constraints and variable block durability
+  - Built an inventory and crafting system with stack management, item splitting, and interactive UI controls
+  - Developed a dynamic world expansion system that generates new terrain as the player approaches boundaries, enabling effectively infinite exploration
 
 ---
 
