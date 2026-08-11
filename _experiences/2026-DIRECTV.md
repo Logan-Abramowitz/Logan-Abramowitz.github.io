@@ -1,0 +1,19 @@
+---
+layout: project
+title: DIRECTV
+description: Analytics & Insights Intern
+technologies: [Python]
+image: /assets/images/
+---
+
+During the summer of 2026, I worked as an Analytics & Insights Intern with DIRECTV Ad Sales, where my primary project focused on a proprietary analytics framework designed to support local targeting and segmentation capabilities. The work was tied to meaningful business impact: creating the potential for enterprise-wide cost savings, future revenue opportunities, and stronger client and partner relationships. Rather than focusing only on technical execution, the project required connecting analytical decisions to broader business value, including how more transparent and flexible planning inputs could support advertising strategy at scale.
+
+The technical foundation of the project used public Census-level geography data and related open-source inputs to evaluate local market organization in a business-relevant way. I built a workflow that accounted for population patterns, geographic consistency, practical review considerations, and responsible handling of sensitive internal details. The goal was to create an explainable framework that could improve local planning flexibility while remaining appropriate for stakeholder review before any broader use.
+
+A major part of the experience involved translating complex technical work into materials that could be understood by both analytical and non-technical audiences. I developed a written report, executive summary, final presentation, and supporting documentation that explained the methodology, high-level assumptions, validation approach, business value, and recommended next steps. These materials highlighted the project’s potential impact while emphasizing the importance of stakeholder review, confidentiality, and controlled testing before any broader operational consideration.
+
+In addition to the local targeting project, I participated in an Ad Sales AI intern project focused on improving workflow efficiency. The team mapped current process pain points, gathered stakeholder feedback, and helped design a prototype concept intended to centralize key campaign information, reduce manual handoffs, and improve visibility across teams. This project helped me better understand how advertising workflows move from client request to campaign planning and how automation can support operational efficiency, improve coordination, and preserve business judgment.
+
+I also led a winning, cross-functional intern hackathon team that developed a live sports discovery concept designed to help fans find places to watch games together while creating value for DIRECTV, commercial venues, and advertising stakeholders. The experience gave me the opportunity to shape the pitch, present to a broader audience, and collaborate with interns across different business units. The project strengthened my ability to connect consumer insights to commercial value, communicate a product concept clearly, and work effectively under a fast timeline.
+
+Beyond the technical deliverables, the internship broadened my understanding of how DIRECTV Advertising operates. Through meetings, coffee chats, project reviews, intern programming, and hybrid in-office collaboration, I learned from people across Analytics, Product, Partnerships, Business Development, Planning, Pricing, Sales, Business Operations, and MAdTech. These conversations helped connect my project work to the larger business context, including advertising strategy, client planning, data availability, operational workflows, and cross-functional decision-making. Overall, the internship strengthened my technical skills, improved my ability to present analytical work to business audiences, and gave me a deeper appreciation for how data-driven projects can create practical value across an organization.

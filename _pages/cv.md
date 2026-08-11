@@ -21,31 +21,11 @@ A computer science and operations research student with a strong foundation in p
 - **Cornell University**  
   *Bachelor of Science in Computer Science*  
   *Bachelor of Science in Operations Research and Engineering*  
-  GPA: 3.68 | Graduation: May, 2027
+  GPA: 3.71 | Graduation: May, 2027
 
 - **The Leffell School**  
   *High School Diploma*  
   GPA: 4.05/4.4 | Rigor: 5/5 | Graduation: June, 2023
-
----
-
-#### Relevant Coursework
-- CS 2110: Object-Oriented Programming and Data Structures
-- CS 2800: Discrete Structure
-- CS 3110: Data Structures and Functional Programming
-- CS 3410: Computer System Organization and Programming
-- CS 3700: Foundations of AI Reasoning and Decision-Making
-- CS 3780: Introduction to Machine Learning 
-- CS 4820: Introduction to Analysis of Algorithms
-- MATH 2940: Linear Algebra for Engineers
-- ENGRD 2700: Engineering Probability and Statistics: Modeling and Data Science
-- ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
-- ORIE 3150: Financial and Managerial Accounting
-- ORIE 3300: Optimization I
-- ORIE 3310: Optimization II
-- ORIE 3500: Engineering Probability and Statistics: Modeling and Data Science II
-- ORIE 3510: Stochastic Processes for Decision-Making
-- ORIE 4134: Operations Research Modeling for Real
 
 ---
 
@@ -56,6 +36,37 @@ A computer science and operations research student with a strong foundation in p
 - **Data Analysis Tools:** SQL, Tableau, Pandas, Numpy, Scikit-learn, AMPL, CVXPY
 - **Microsoft Office Suite:** Excel, Word, PowerPoint
 - **Intangibles:** Leadership, Organization, Teamwork 
+
+---
+
+#### Work Experience
+- **DIRECTV - Analytics & Insights Intern, Ad Sales**
+  June 2026 - August 2026
+  - Developed a proprietary analytics framework with enterprise-wide application, projected to reduce costs by millions, unlock incremental revenue opportunities, and strengthen client and partner relationships.
+    - Leveraged public Census and open-source data to enable local targeting and segmentation workflows for business use.
+    - Translated complex geospatial analysis into executive-ready materials highlighting business value, implementation considerations, and responsible governance requirements.
+    - Presented final recommendations to senior leadership, including C-suite executives.
+  - Led a winning intern hackathon team in developing a prototype that leveraged existing technology to enhance live sports discovery for fans while creating new value opportunities for DIRECTV, commercial venues, and advertising partners.
+  - Designed an AI workflow automation prototype for Ad Sales in collaboration with Analytics, Product, Partnerships, Business Development, Planning, Pricing, and MAdTech teams.
+
+{% comment %}
+- **Handshake AI - MOVE Fellow**
+  August 2025 - September 2025
+  - Worked as a part of a massive team to complete proprietary advancement of AI
+  - Evaluated many Web based applications for AI models to train against
+{% endcomment %}
+
+- **StratusX - Intern**  
+  May 2025 - August 2025
+  - Upgraded outdated cloud infrastructure to reduce vulnerabilities
+  - Reconstructed lost Dockerfiles and docker-compose.yml files for 30 images
+  - Successfully removed all critical and high severity vulnerabilities while reducing total vulnerabilities by 90%
+
+- **Stand Out for College - Intern**  
+  April 2023 - June 2023
+  - Collaborated in team of three to develop robust software to create database of college admission data
+  - Scraped data from each college's Common Data Set, then cleaned and processed the data which was then sent to a google sheet
+  - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
 
 ---
 
@@ -95,31 +106,23 @@ A computer science and operations research student with a strong foundation in p
 
 ---
 
-#### Work Experience
-{% comment %}
-- **DIRECTV - Intern**
-  June 2026 - August 2026
-  - 
-{% endcomment %}
-
-{% comment %}
-- **Handshake AI - MOVE Fellow**
-  August 2025 - September 2025
-  - Worked as a part of a massive team to complete proprietary advancement of AI
-  - Evaluated many Web based applications for AI models to train against
-{% endcomment %}
-
-- **StratusX - Intern**  
-  May 2025 - August 2025
-  - Upgraded outdated cloud infrastructure to reduce vulnerabilities
-  - Reconstructed lost Dockerfiles and docker-compose.yml files for 30 images
-  - Successfully removed all critical and high severity vulnerabilities while reducing total vulnerabilities by 90%
-
-- **Stand Out for College - Intern**  
-  April 2023 - June 2023
-  - Collaborated in team of three to develop robust software to create database of college admission data
-  - Scraped data from each college's Common Data Set, then cleaned and processed the data which was then sent to a google sheet
-  - Learned PDF-scraping, web-scraping, and how to automate data entry into google sheets using python
+#### Relevant Coursework
+- CS 2110: Object-Oriented Programming and Data Structures
+- CS 2800: Discrete Structure
+- CS 3110: Data Structures and Functional Programming
+- CS 3410: Computer System Organization and Programming
+- CS 3700: Foundations of AI Reasoning and Decision-Making
+- CS 3780: Introduction to Machine Learning 
+- CS 4820: Introduction to Analysis of Algorithms
+- MATH 2940: Linear Algebra for Engineers
+- ENGRD 2700: Engineering Probability and Statistics: Modeling and Data Science
+- ORIE 3120: Practical Tools for Operations Research, Machine Learning and Data Science
+- ORIE 3150: Financial and Managerial Accounting
+- ORIE 3300: Optimization I
+- ORIE 3310: Optimization II
+- ORIE 3500: Engineering Probability and Statistics: Modeling and Data Science II
+- ORIE 3510: Stochastic Processes for Decision-Making
+- ORIE 4134: Operations Research Modeling for Real
 
 ---
 
