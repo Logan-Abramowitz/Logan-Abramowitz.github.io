@@ -2,7 +2,7 @@
 layout: project
 title: DIRECTV
 description: Analytics & Insights Intern
-technologies: [Python]
+technologies: [Python, SQL, Snowflake, Looker, Geo-Spacial Data analysis, Optimization, Powerpoint]
 image: /assets/images/
 ---
 

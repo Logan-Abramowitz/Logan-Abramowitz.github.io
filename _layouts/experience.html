@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<h5>{{ page.description }}</h5>
+
+<p><img src="{{ page.image | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
+
+{{ content }}
+
+<p><strong>Tools & Methods</strong>: {{ page.technologies | join: ", " }}</p>
+
+<a href={{ "/experiences/" | relative_url }} class="back-arrow">
+    <i class="bi bi-arrow-left-circle-fill"></i> Back to Experiences
+</a>

@@ -32,8 +32,8 @@ A computer science and operations research student with a strong foundation in p
 #### Skills
 - **Back-end Development Tools:** Python, Java, OCaml, C, OOP Programming
 - **Front-end Development Tools:** HTML, CSS, Markdown, Jekyll
-- **Developer Tools:** Git, GitHub, VS Code, Eclipse, Jupyter Notebooks
-- **Data Analysis Tools:** SQL, Tableau, Pandas, Numpy, Scikit-learn, AMPL, CVXPY
+- **Developer Tools:** Git, GitHub, VS Code, Eclipse, Jupyter Notebooks, Snowflake
+- **Data Analysis Tools:** SQL, Tableau, Pandas, Numpy, Scikit-learn, AMPL, CVXPY, Looker
 - **Microsoft Office Suite:** Excel, Word, PowerPoint
 - **Intangibles:** Leadership, Organization, Teamwork 
 
