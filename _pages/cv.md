@@ -40,7 +40,7 @@ A computer science and operations research student with a strong foundation in p
 ---
 
 #### Work Experience
-- **DIRECTV - Analytics & Insights Intern, Ad Sales**
+- **DIRECTV - Analytics & Insights Intern, Ad Sales**  
   June 2026 - August 2026
   - Developed a proprietary analytics framework with enterprise-wide application, projected to reduce costs by millions, unlock incremental revenue opportunities, and strengthen client and partner relationships.
     - Leveraged public Census and open-source data to enable local targeting and segmentation workflows for business use.

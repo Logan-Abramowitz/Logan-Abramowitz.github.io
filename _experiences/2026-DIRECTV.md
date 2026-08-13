@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: experience
 title: DIRECTV
 description: Analytics & Insights Intern
 technologies: [Python, SQL, Snowflake, Looker, Geo-Spacial Data analysis, Optimization, Powerpoint]
