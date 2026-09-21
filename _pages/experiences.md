@@ -5,7 +5,7 @@ permalink: /experiences/
 ---
 
 <div class="gallery-container">
-<div class="project-gallery">
+<div class="experience-gallery">
     {% for experience in site.experiences reversed%}
       <div class="gallery-item">
         <a href="{{ experience.url | relative_url }}">
